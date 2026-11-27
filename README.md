@@ -23,5 +23,6 @@ Free, practical guides: https://lp.bitencourtco.com/kit-tracking/en/guides/?utm_
 
 - Free field guide: [13 Silent Tracking Failures](https://tonibitencourt.gumroad.com/l/13-silent-tracking-failures?utm_source=github&utm_medium=referral&utm_campaign=starter)
 - The complete setup (47-page manual + AI-ready Markdown, server-side GTM on your own VPS, the HubSpot bot with deal stages): [4-Layer Tracking Kit](https://tonibitencourt.gumroad.com/l/4-layer-tracking?utm_source=github&utm_medium=referral&utm_campaign=starter)
+- Agencies and freelancers: recommend the kit to clients and earn 50% per sale, [affiliate program](https://lp.bitencourtco.com/kit-tracking/en/affiliates/?utm_source=github&utm_medium=referral&utm_campaign=starter)
 
 MIT License · Bitencourt & Co. · Meta, Google Tag Manager and HubSpot are trademarks of their owners.
